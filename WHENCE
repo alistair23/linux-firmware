@@ -2646,6 +2646,9 @@ File: brcm/brcmfmac43602-pcie.ap.bin
 File: brcm/brcmfmac4366b-pcie.bin
 File: brcm/brcmfmac4366c-pcie.bin
 File: brcm/brcmfmac4371-pcie.bin
+File: brcm/brcmfmac43456-sdio.bin
+File: brcm/brcmfmac43456-sdio.clm_blob
+File: brcm/brcmfmac43456-sdio.txt
 
 Licence: Redistributable. See LICENCE.broadcom_bcm43xx for details.
 
